@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bipolar</string>
+
+    <string name="title_activity_login">Sign in</string>
+    <string name="string_finish_subscibe_message">Your are a </string>
+    <string name="message">Send emergency message with your current location !</string>
+    <string name="add_assistant_message">Enter the email adresse below, a notification will be sent to your assistant/patient to confirm the operation, please enter a valid adresse.</string>
+</resources>

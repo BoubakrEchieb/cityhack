@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "973132555223",
+    "firebase_url": "https://cityhack-6e40f.firebaseio.com",
+    "project_id": "cityhack-6e40f",
+    "storage_bucket": "cityhack-6e40f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973132555223:android:90f348d6ee7a0f88",
+        "android_client_info": {
+          "package_name": "enis.info.bipolar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973132555223-tdaake0vlkbbqgjn4klheihlbet1fcsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRN0ih9X9hLUlS6iwMCLtYL7MCURC4EuY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
